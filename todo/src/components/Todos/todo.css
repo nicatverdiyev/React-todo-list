@@ -1,0 +1,12 @@
+td {
+  width: 180px;
+  text-align: center;
+}
+table {
+  padding: 20px;
+  background-color: rgb(88, 85, 85);
+  color: white;
+}
+tr {
+  border: 1px solid white;
+}
